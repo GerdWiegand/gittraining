@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to My Mkdocs
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
@@ -15,3 +15,7 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Internal links
+
+[Projects](projects.md)
