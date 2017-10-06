@@ -1,3 +1,3 @@
 # About page
 
-This page is to tell you about something
+Training pages for Softwaretest team.
