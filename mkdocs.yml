@@ -3,4 +3,8 @@ pages:
     - Home: index.md
     - About: about.md
     - Projects: projects.md
+    - Kai: kai.md
+    - Gerald: gerald.md
+    - Smitha: smitha.md
+    - Gerd: gerd.md
 theme: readthedocs
